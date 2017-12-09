@@ -18,6 +18,7 @@ Accertarsi di aver scaricato i file in un ambiente provvisto del simulatore GSN3
 --> copiare il nuovo file .vdi
 
 --> aprire virtualbox e creare una nuova macchina virtuale, selezionando come immagine del so il file .vdi di cui sopra
+(scaricare la VM da: https://www.dropbox.com/s/zifefk45bwoukfp/ProgettoANAWS.rar?dl=0)
 
 --> creata la vm cliccare su edit --> network --> adapter1 --> selezionare not attached
 
