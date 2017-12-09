@@ -9,7 +9,7 @@ Accertarsi di aver scaricato i file in un ambiente provvisto del simulatore GSN3
 --> andare in /home/user/gns3/images/virtualbox/ ed elimare il file .vdi linux-core-4.7.7-openswitch...
 --> copiare il nuovo file .vdi
 --> aprire virtualbox e creare una nuova macchina virtuale, selezionando come immagine del so il file .vdi di cui sopra
-(scaricare la VM da https://www.dropbox.com/s/zifefk45bwoukfp/ProgettoANAWS.rar?dl=0)
+(scaricare la VM da http://www.filedropper.com/linux-core-477-openvswitch-1110guagga-099224 oppure  https://www.dropbox.com/s/zifefk45bwoukfp/ProgettoANAWS.rar?dl=0)
 --> creata la vm cliccare su edit --> network --> adapter1 --> selezionare not attached
 
 3)Importare la VM con il tool installato
