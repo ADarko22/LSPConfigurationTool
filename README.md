@@ -1,4 +1,4 @@
-"# LSPConfigurationTool" 
+# LSPConfigurationTool 
 
 Accertarsi di aver scaricato i file in un ambiente provvisto del simulatore GSN3.
 
